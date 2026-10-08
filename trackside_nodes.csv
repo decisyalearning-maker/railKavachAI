@@ -1,0 +1,7 @@
+node_id,chainage_km,zone,terrain,lat,lon
+N001,0.5,Tunnel Approach,Tunnel,27.5861,91.8647
+N002,1.0,Sharp Curve A,Mountain Cutting,27.59,91.87
+N003,1.5,Forest Ghat,Forest,27.595,91.875
+N004,2.0,Bridge Approach,Bridge,27.6,91.88
+N005,2.5,Tunnel Exit,Tunnel,27.605,91.885
+N006,3.0,Landslide Zone,Mountain Cutting,27.61,91.89
